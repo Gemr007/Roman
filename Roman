@@ -1,0 +1,5 @@
+Console.WriteLine("Здравствуйте, меня зовут" + string name + "Костя");
+Console.WriteLine(Мне + int age + "16");
+Console.WriteLine("Я хочу научиться делать игры, это моя" + int program Count + "Some programs on C#");
+Console.WriteLine("Когда я закончу обучение, я хочу зарабатывать" + int money + "100.000 в" + int time + "5 наносекунд");
+Console.WriteLine("Достигну ли я желаемого?" + bool truth + "Попробую");
